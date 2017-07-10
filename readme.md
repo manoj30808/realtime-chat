@@ -17,3 +17,5 @@ email: admin@admin.com
 pass : 123456
 
 You found chat menu in left navigation bar.
+
+NOTE : you have to install redis-server and start it before run the app
