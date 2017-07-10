@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Rubik-Bold';
+  src: url('..fonts/Rubik-Bold.eot');
+  src: url('..fonts/Rubik-Bold.woff2') format('woff2'),
+       url('..fonts/Rubik-Bold.woff') format('woff'),
+       url('..fonts/Rubik-Bold.ttf') format('truetype'),
+       url('..fonts/Rubik-Bold.svg#Rubik-Bold') format('svg'),
+       url('..fonts/Rubik-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+#wrapper.new-login-register .new-login-box {
+  margin: 0 auto;
+  width: 400px;
+}
+#wrapper.new-login-register {
+    position: relative;
+}
+.active-user{
+    background: #dfd;
+}
+.chat-box .slimScrollDiv {
+    height: 400px !important;
+}
+.chat-main-box .chat-left-aside {height: 100%; height: 530px; overflow: auto;}
