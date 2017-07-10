@@ -12,6 +12,8 @@
 
 
 Now go to ==> http://localhost:8000
-	email: admin@admin.com
-	pass : 123456
+
+email: admin@admin.com
+pass : 123456
+
 You found chat menu in left navigation bar.
